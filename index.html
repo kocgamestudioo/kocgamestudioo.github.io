@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KocGameStudio</title>
+<meta name="description" content="KocGameStudio – mobil oyunlar. SugarForge - Candy Match 3.">
+<style>
+  :root {
+    --bg: #fdf7fb;
+    --surface: #ffffff;
+    --text: #2b2230;
+    --muted: #6b5f72;
+    --accent: #d6337f;
+    --border: #eadde6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1b1620;
+      --surface: #241d2a;
+      --text: #f1e9f4;
+      --muted: #b5a8bd;
+      --accent: #ff6fae;
+      --border: #3a3041;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 16px 64px; }
+  h1 { font-size: 2rem; margin: 0 0 4px; }
+  .muted { color: var(--muted); }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+    margin-top: 28px;
+  }
+  .card h2 { margin: 0 0 4px; font-size: 1.25rem; }
+  .badge {
+    display: inline-block;
+    font-size: 0.8rem;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    padding: 1px 10px;
+    margin-bottom: 8px;
+  }
+  a { color: var(--accent); }
+  footer { margin-top: 40px; font-size: 0.95rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>KocGameStudio</h1>
+  <p class="muted">Mobil oyunlar · Mobile games</p>
+
+  <section class="card">
+    <span class="badge">Yakında Google Play'de · Coming soon to Google Play</span>
+    <h2>SugarForge - Candy Match 3</h2>
+    <p>Rengarenk şekerleri eşleştir, bölümleri geç! · Match colorful candies and beat the levels!</p>
+    <p><a href="privacy-policy.html">Gizlilik Politikası · Privacy Policy</a></p>
+  </section>
+
+  <footer>
+    <p>İletişim · Contact: <a href="mailto:kocgamestudio@gmail.com">kocgamestudio@gmail.com</a></p>
+  </footer>
+</main>
+</body>
+</html>
