@@ -2,5 +2,7 @@
     "formatVersion": 1,
     "rewardWithoutAd": false,
     "rewardedAdCoins": 50,
-    "mapRewardedAdsPerDay": 3
+    "mapRewardedAdsPerDay": 3,
+    "notificationEarliestHour": 0,
+    "notificationLatestHour": 23
 }
