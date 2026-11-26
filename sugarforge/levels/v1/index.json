@@ -1,4 +1,55 @@
 {
-    "formatVersion": 1,
-    "levels": []
+  "formatVersion": 1,
+  "levels": [
+    {
+      "id": 91,
+      "sha256": "bd030b335286ae30f065f00c2f2b34292d1713f5dec4c764833838ef37b19d72",
+      "minClient": 2
+    },
+    {
+      "id": 92,
+      "sha256": "031306fe7764215e734f4d71b12c47dd09ced8ce79e6e0d8f25d29586e3a77ec",
+      "minClient": 2
+    },
+    {
+      "id": 93,
+      "sha256": "e23ee7045a286f0f1da394343cc5c096705fdd2b0d146cfbb8e49dd78ce37758",
+      "minClient": 2
+    },
+    {
+      "id": 94,
+      "sha256": "b08d15a95e011cb996c4120215bdb972eac7c6fe5974378f15a4539f0ace76ef",
+      "minClient": 2
+    },
+    {
+      "id": 95,
+      "sha256": "a245c746a178782c17141b06f63c2922b59b214d2e4a16bc7275325a4c6a5713",
+      "minClient": 2
+    },
+    {
+      "id": 96,
+      "sha256": "185d96acbd1bf4468a51d46e4eafcd5ae9796b86c9eb3157053378733da274d8",
+      "minClient": 2
+    },
+    {
+      "id": 97,
+      "sha256": "729c7055cd7f891a582190505ffd4852d39670b9ad896c269227d5f1456a2b32",
+      "minClient": 2
+    },
+    {
+      "id": 98,
+      "sha256": "3e28e1a5a7eb64e26e5fbc390e7a91834ff2d276e3c02cf5b9d8021e84179582",
+      "minClient": 2
+    },
+    {
+      "id": 99,
+      "sha256": "eab0b30db574a1e686f12467c8fef4e16cecf9c8ac4009dc59d74c7838286490",
+      "minClient": 2
+    },
+    {
+      "id": 100,
+      "sha256": "4d9862db0ebabdddffbdfe1a9da3809ca14a9c0d5724f6c050674c789bd8ae26",
+      "minClient": 2
+    }
+  ]
 }
